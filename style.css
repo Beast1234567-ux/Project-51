@@ -1,0 +1,161 @@
+* {
+   /* color: #1e90ff; */
+   background-color: #FAF3DD;
+   font-family: cursive, fantasy, serif;
+   margin: 0px;
+}
+
+
+.header{
+   background-color: #2b15eb;
+   display: flex;
+   justify-content: space-between;
+   padding:25px
+}
+
+.main{margin: 0px;
+   padding: 0px;
+   justify-content: center;}
+
+body{
+    margin: 0px;
+   background-color: seashell;
+}
+
+.item4{
+    background-color: #28d84e;
+    margin: 0px;
+   padding: 0px;
+}
+
+
+.item1{
+    background-color: #e7a0be;
+    margin: 0px;
+   padding: 0px;
+   }
+
+   .item2{
+    background-color: brown;
+    margin: 0px;
+   padding: 0px;
+   }
+
+   .item3{
+    background-color: greenyellow;
+    margin: 0px;
+   padding: 0px;
+   }
+   a:link{
+color:aqua
+
+   }
+
+   a:visited{
+
+    color:black
+   }
+
+   .item1{
+position:relative;
+
+   }
+
+   .item1 p{
+position:absolute;
+top:40%;
+left:40%;
+
+opacity: 0;
+
+   }
+
+   .item1:hover p{
+opacity: 1;
+
+
+   }
+
+   .item1:hover img{
+opacity: 0.2;
+
+
+   }
+
+   .item2{
+      position:relative;
+      
+         }
+      
+         .item2 p{
+      position:absolute;
+      top:40%;
+      left:40%;
+      
+      opacity: 0;
+      
+         }
+      
+         .item2:hover p{
+      opacity: 1;
+      
+      
+         }
+      
+         .item2:hover img{
+      opacity: 0.2;
+      
+      
+         }
+
+         .item3{
+            position:relative;
+            
+               }
+            
+               .item3 p{
+            position:absolute;
+            top:40%;
+            left:40%;
+            
+            opacity: 0;
+            
+               }
+            
+               .item3:hover p{
+            opacity: 1;
+            
+            
+               }
+            
+               .item3:hover img{
+            opacity: 0.2;
+            
+            
+               }
+
+               .item4{
+                  position:relative;
+                  
+                     }
+                  
+                     .item4 p{
+                  position:absolute;
+                  top:40%;
+                  left:40%;
+                  
+                  opacity: 0;
+                  
+                     }
+                  
+                     .item4:hover p{
+                  opacity: 1;
+                  
+                  
+                     }
+                  
+                     .item4:hover img{
+                  opacity: 0.2;
+                  
+                  
+                     }
